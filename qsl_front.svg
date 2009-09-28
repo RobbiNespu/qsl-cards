@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2425"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="qsl_front_3up.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2427">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 495 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="765 : 495 : 1"
+       inkscape:persp3d-origin="382.5 : 330 : 1"
+       id="perspective2434" />
+    <inkscape:perspective
+       id="perspective3491"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3580"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3505"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3592"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3659"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3726"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3793"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3843"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3910"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3977"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4854"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4921"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4989"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75757576"
+     inkscape:cx="382.5"
+     inkscape:cy="495"
+     inkscape:current-layer="layer2"
+     id="namedview2429"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="true"
+     inkscape:window-width="1400"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata2431">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffdf27;fill-opacity:1;stroke:none;stroke-width:8.90999985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect2520"
+       width="765"
+       height="990"
+       x="0"
+       y="0"
+       rx="91854.008"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Photo" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mask"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.90999985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 0,990 L 765,990 L 765,0 L 0,0 L 0,990 z M 135,969.75 L 135,654.75 L 630,654.75 L 630,969.75 L 135,969.75 z M 135,650.25 L 135,335.25 L 630,335.25 L 630,650.25 L 135,650.25 z M 135,330.75 L 135,15.75 L 630,15.75 L 630,330.75 L 135,330.75 z"
+       id="path4801" />
+    <g
+       transform="translate(134.90999,335.34)"
+       id="g2526"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="50%"
+         id="text2528"
+         y="204.85626"
+         x="97.343048"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         xml:space="preserve"><tspan
+           y="204.85626"
+           x="97.343048"
+           id="tspan2530"
+           sodipodi:role="line">VA3DGN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         x="97.343048"
+         y="204.85626"
+         id="text2532"
+         sodipodi:linespacing="50%"><tspan
+           sodipodi:role="line"
+           id="tspan2534"
+           x="97.343048"
+           y="204.85626">VA3DGN</tspan></text>
+      <text
+         sodipodi:linespacing="130%"
+         id="text2536"
+         y="241.35629"
+         x="241.02304"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="241.35629"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2538">Confirms QSO with</tspan><tspan
+           y="256.9563"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2540">Date/Time</tspan><tspan
+           y="272.5563"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2542">Freq/Mode/Power</tspan><tspan
+           y="288.15628"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2544">RST</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="241.02304"
+         y="241.35629"
+         id="text2546"
+         sodipodi:linespacing="130%"><tspan
+           y="241.35629"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2548">Confirms QSO with</tspan><tspan
+           y="256.9563"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2550">Date/Time</tspan><tspan
+           y="272.5563"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2552">Freq/Mode/Power</tspan><tspan
+           y="288.15628"
+           x="241.02304"
+           sodipodi:role="line"
+           id="tspan2554">RST</tspan></text>
+      <rect
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2556"
+         width="236.56775"
+         height="90.300003"
+         x="247.27226"
+         y="213.36"
+         ry="11.34"
+         rx="11.340001" />
+      <rect
+         rx="11.340001"
+         ry="11.34"
+         y="104.99998"
+         x="247.27226"
+         height="90.300003"
+         width="236.56775"
+         id="rect2558"
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text2560"
+         y="209.15625"
+         x="244.56305"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="209.15625"
+           x="244.56305"
+           id="tspan2562"
+           sodipodi:role="line">@rac.ca</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="244.56305"
+         y="209.15625"
+         id="text2564"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan2566"
+           x="244.56305"
+           y="209.15625">@rac.ca</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text2568"
+         y="168.41626"
+         x="98.283043"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="168.41626"
+           x="98.283043"
+           id="tspan2570"
+           sodipodi:role="line">Tyler,</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="98.283043"
+         y="168.41626"
+         id="text2572"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan2574"
+           x="98.283043"
+           y="168.41626">Tyler,</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g2576"
+       transform="translate(134.90999,15.84)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         x="97.343048"
+         y="204.85626"
+         id="text2578"
+         sodipodi:linespacing="50%"><tspan
+           sodipodi:role="line"
+           id="tspan2580"
+           x="97.343048"
+           y="204.85626">VA3DGN</tspan></text>
+      <text
+         sodipodi:linespacing="50%"
+         id="text2582"
+         y="204.85626"
+         x="97.343048"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         xml:space="preserve"><tspan
+           y="204.85626"
+           x="97.343048"
+           id="tspan2584"
+           sodipodi:role="line">VA3DGN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="241.02304"
+         y="241.35629"
+         id="text2586"
+         sodipodi:linespacing="130%"><tspan
+           id="tspan2588"
+           sodipodi:role="line"
+           x="241.02304"
+           y="241.35629">Confirms QSO with</tspan><tspan
+           id="tspan2590"
+           sodipodi:role="line"
+           x="241.02304"
+           y="256.9563">Date/Time</tspan><tspan
+           id="tspan2592"
+           sodipodi:role="line"
+           x="241.02304"
+           y="272.5563">Freq/Mode/Power</tspan><tspan
+           id="tspan2594"
+           sodipodi:role="line"
+           x="241.02304"
+           y="288.15628">RST</tspan></text>
+      <text
+         sodipodi:linespacing="130%"
+         id="text2596"
+         y="241.35629"
+         x="241.02304"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           id="tspan2598"
+           sodipodi:role="line"
+           x="241.02304"
+           y="241.35629">Confirms QSO with</tspan><tspan
+           id="tspan2600"
+           sodipodi:role="line"
+           x="241.02304"
+           y="256.9563">Date/Time</tspan><tspan
+           id="tspan2602"
+           sodipodi:role="line"
+           x="241.02304"
+           y="272.5563">Freq/Mode/Power</tspan><tspan
+           id="tspan2604"
+           sodipodi:role="line"
+           x="241.02304"
+           y="288.15628">RST</tspan></text>
+      <rect
+         rx="11.340001"
+         ry="11.34"
+         y="213.36"
+         x="247.27226"
+         height="90.300003"
+         width="236.56775"
+         id="rect2606"
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2608"
+         width="236.56775"
+         height="90.300003"
+         x="247.27226"
+         y="104.99998"
+         ry="11.34"
+         rx="11.340001" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="244.56305"
+         y="209.15625"
+         id="text2610"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan2612"
+           x="244.56305"
+           y="209.15625">@rac.ca</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text2614"
+         y="209.15625"
+         x="244.56305"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="209.15625"
+           x="244.56305"
+           id="tspan2616"
+           sodipodi:role="line">@rac.ca</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="98.283043"
+         y="168.41626"
+         id="text2618"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan2620"
+           x="98.283043"
+           y="168.41626">Tyler,</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text2622"
+         y="168.41626"
+         x="98.283043"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="168.41626"
+           x="98.283043"
+           id="tspan2624"
+           sodipodi:role="line">Tyler,</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g3341"
+       transform="translate(134.90999,654.84)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         x="97.343048"
+         y="204.85626"
+         id="text4056"
+         sodipodi:linespacing="50%"><tspan
+           sodipodi:role="line"
+           id="tspan4058"
+           x="97.343048"
+           y="204.85626">VA3DGN</tspan></text>
+      <text
+         sodipodi:linespacing="50%"
+         id="text3182"
+         y="204.85626"
+         x="97.343048"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold Italic"
+         xml:space="preserve"><tspan
+           y="204.85626"
+           x="97.343048"
+           id="tspan3184"
+           sodipodi:role="line">VA3DGN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="241.02304"
+         y="241.35629"
+         id="text4014"
+         sodipodi:linespacing="130%"><tspan
+           id="tspan3333"
+           sodipodi:role="line"
+           x="241.02304"
+           y="241.35629">Confirms QSO with</tspan><tspan
+           id="tspan3335"
+           sodipodi:role="line"
+           x="241.02304"
+           y="256.9563">Date/Time</tspan><tspan
+           id="tspan3337"
+           sodipodi:role="line"
+           x="241.02304"
+           y="272.5563">Freq/Mode/Power</tspan><tspan
+           id="tspan3339"
+           sodipodi:role="line"
+           x="241.02304"
+           y="288.15628">RST</tspan></text>
+      <text
+         sodipodi:linespacing="130%"
+         id="text3186"
+         y="241.35629"
+         x="241.02304"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           id="tspan3325"
+           sodipodi:role="line"
+           x="241.02304"
+           y="241.35629">Confirms QSO with</tspan><tspan
+           id="tspan3327"
+           sodipodi:role="line"
+           x="241.02304"
+           y="256.9563">Date/Time</tspan><tspan
+           id="tspan3329"
+           sodipodi:role="line"
+           x="241.02304"
+           y="272.5563">Freq/Mode/Power</tspan><tspan
+           id="tspan3331"
+           sodipodi:role="line"
+           x="241.02304"
+           y="288.15628">RST</tspan></text>
+      <rect
+         rx="11.340001"
+         ry="11.34"
+         y="213.36"
+         x="247.27226"
+         height="90.300003"
+         width="236.56775"
+         id="rect3254"
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3712"
+         width="236.56775"
+         height="90.300003"
+         x="247.27226"
+         y="104.99998"
+         ry="11.34"
+         rx="11.340001" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="244.56305"
+         y="209.15625"
+         id="text4040"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4042"
+           x="244.56305"
+           y="209.15625">@rac.ca</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3272"
+         y="209.15625"
+         x="244.56305"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="209.15625"
+           x="244.56305"
+           id="tspan3274"
+           sodipodi:role="line">@rac.ca</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         x="98.283043"
+         y="168.41626"
+         id="text4048"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4050"
+           x="98.283043"
+           y="168.41626">Tyler,</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3722"
+         y="168.41626"
+         x="98.283043"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Italic"
+         xml:space="preserve"><tspan
+           y="168.41626"
+           x="98.283043"
+           id="tspan3734"
+           sodipodi:role="line">Tyler,</tspan></text>
+    </g>
+  </g>
+</svg>
