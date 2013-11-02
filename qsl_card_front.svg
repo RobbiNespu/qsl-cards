@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
    version="1.0"
-   sodipodi:docname="qsl_front2.svg"
+   sodipodi:docname="qsl_card_front.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/tyler/Desktop/qsl_front2.png"
    inkscape:export-xdpi="300"
@@ -202,150 +202,131 @@
        x="0"
        y="652.5" />
     <g
-       id="g3808"
-       transform="translate(-24.509915,6.6629347)">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         x="107.85687"
-         y="868.05011"
-         id="text4056"
-         sodipodi:linespacing="50%"><tspan
-           sodipodi:role="line"
-           id="tspan4058"
-           x="107.85687"
-           y="868.05011">VA3DGN</tspan></text>
-      <text
-         sodipodi:linespacing="50%"
-         id="text3182"
-         y="868.05011"
-         x="107.85687"
-         style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         xml:space="preserve"><tspan
+       id="g3109">
+      <g
+         transform="translate(-24.509915,6.6629347)"
+         id="g3808">
+        <text
+           sodipodi:linespacing="50%"
+           id="text4056"
            y="868.05011"
            x="107.85687"
-           id="tspan3184"
-           sodipodi:role="line">VA3DGN</tspan></text>
-    </g>
-    <g
-       id="g3826"
-       transform="translate(-2,0)">
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         x="251.53687"
-         y="904.55011"
-         id="text4014"
-         sodipodi:linespacing="130%"><tspan
-           id="tspan3333"
-           sodipodi:role="line"
-           x="251.53687"
-           y="904.55011">Confirms QSO with</tspan><tspan
-           id="tspan3335"
-           sodipodi:role="line"
-           x="251.53687"
-           y="920.15009">Date/Time</tspan><tspan
-           id="tspan3337"
-           sodipodi:role="line"
-           x="251.53687"
-           y="935.75012">Freq/Mode/Power</tspan><tspan
-           id="tspan3339"
-           sodipodi:role="line"
-           x="251.53687"
-           y="951.3501">RST</tspan></text>
-      <text
-         sodipodi:linespacing="130%"
-         id="text3186"
-         y="904.55011"
-         x="251.53687"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         xml:space="preserve"><tspan
-           id="tspan3325"
-           sodipodi:role="line"
-           x="251.53687"
-           y="904.55011">Confirms QSO with</tspan><tspan
-           id="tspan3327"
-           sodipodi:role="line"
-           x="251.53687"
-           y="920.15009">Date/Time</tspan><tspan
-           id="tspan3329"
-           sodipodi:role="line"
-           x="251.53687"
-           y="935.75012">Freq/Mode/Power</tspan><tspan
-           id="tspan3331"
-           sodipodi:role="line"
-           x="251.53687"
-           y="951.3501">RST</tspan></text>
-    </g>
-    <rect
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3254"
-       width="236.56775"
-       height="90.300003"
-       x="257.78607"
-       y="876.55383"
-       ry="11.34"
-       rx="11.340001" />
-    <rect
-       rx="11.340001"
-       ry="11.34"
-       y="768.19379"
-       x="257.78607"
-       height="90.300003"
-       width="236.56775"
-       id="rect3712"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
-    <g
-       id="g3820"
-       transform="translate(0,-1.1455696)">
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         x="255.07687"
-         y="872.3501"
-         id="text4040"
-         sodipodi:linespacing="100%"><tspan
-           sodipodi:role="line"
-           id="tspan4042"
+           style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           xml:space="preserve"><tspan
+             y="868.05011"
+             x="107.85687"
+             id="tspan4058"
+             sodipodi:role="line">VA3DGN</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:50%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           x="107.85687"
+           y="868.05011"
+           id="text3182"
+           sodipodi:linespacing="50%"><tspan
+             sodipodi:role="line"
+             id="tspan3184"
+             x="107.85687"
+             y="868.05011">VA3DGN</tspan></text>
+      </g>
+      <g
+         id="g3083">
+        <text
+           sodipodi:linespacing="130%"
+           id="text4014"
+           y="904.55011"
+           x="249.53687"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:130%;writing-mode:lr;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3075">Confirms QSO with</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3077">Date/Time</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3079">Freq/2xMode/Power</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3081">RST</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:130%;writing-mode:lr;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           x="249.53687"
+           y="904.55011"
+           id="text3186"
+           sodipodi:linespacing="130%"><tspan
+             sodipodi:role="line"
+             id="tspan3067">Confirms QSO with</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3069">Date/Time</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3071">Freq/2xMode/Power</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3073">RST</tspan></text>
+      </g>
+      <rect
+         rx="11.340001"
+         ry="11.34"
+         y="876.55383"
+         x="257.78607"
+         height="90.300003"
+         width="236.56775"
+         id="rect3254"
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3712"
+         width="236.56775"
+         height="90.300003"
+         x="257.78607"
+         y="768.19379"
+         ry="11.34"
+         rx="11.340001" />
+      <g
+         id="g3103">
+        <text
+           sodipodi:linespacing="100%"
+           id="text4040"
+           y="871.20453"
            x="255.07687"
-           y="872.3501">@rac.ca</tspan></text>
-      <text
-         sodipodi:linespacing="100%"
-         id="text3272"
-         y="872.3501"
-         x="255.07687"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         xml:space="preserve"><tspan
-           y="872.3501"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3101">@draak.ca</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            x="255.07687"
-           id="tspan3274"
-           sodipodi:role="line">@rac.ca</tspan></text>
-    </g>
-    <g
-       id="g3814"
-       transform="translate(-24.218775,2.3410311)">
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         x="108.79687"
-         y="831.61011"
-         id="text4048"
-         sodipodi:linespacing="100%"><tspan
-           sodipodi:role="line"
-           id="tspan4050"
-           x="108.79687"
-           y="831.61011">Tyler,</tspan></text>
-      <text
-         sodipodi:linespacing="100%"
-         id="text3722"
-         y="831.61011"
-         x="108.79687"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-         xml:space="preserve"><tspan
+           y="871.20453"
+           id="text3272"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3099">@draak.ca</tspan></text>
+      </g>
+      <g
+         transform="translate(-24.218775,2.3410311)"
+         id="g3814">
+        <text
+           sodipodi:linespacing="100%"
+           id="text4048"
            y="831.61011"
            x="108.79687"
-           id="tspan3734"
-           sodipodi:role="line">Tyler,</tspan></text>
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           xml:space="preserve"><tspan
+             y="831.61011"
+             x="108.79687"
+             id="tspan4050"
+             sodipodi:role="line">Tyler,</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           x="108.79687"
+           y="831.61011"
+           id="text3722"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3734"
+             x="108.79687"
+             y="831.61011">Tyler,</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
