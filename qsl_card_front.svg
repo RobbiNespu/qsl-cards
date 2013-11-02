@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -194,17 +194,10 @@
      inkscape:label="Mask"
      style="display:inline"
      transform="translate(0,-652.5)">
-    <rect
-       style="fill:#ff6600 icc-color(little-cms-Relative-L-a-b--identity-profile, 87.69716024, 100.54258728, 108.61830139);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3075"
-       width="517.5"
-       height="337.5"
-       x="0"
-       y="652.5" />
     <g
-       id="g3109">
+       id="g3906">
       <g
-         transform="translate(-24.509915,6.6629347)"
+         transform="translate(-25.656056,-84.483193)"
          id="g3808">
         <text
            sodipodi:linespacing="50%"
@@ -230,43 +223,60 @@
              y="868.05011">VA3DGN</tspan></text>
       </g>
       <g
+         transform="translate(-1.1461408,-91.146128)"
          id="g3083">
         <text
            sodipodi:linespacing="130%"
            id="text4014"
            y="904.55011"
            x="249.53687"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:130%;writing-mode:lr;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            xml:space="preserve"><tspan
              sodipodi:role="line"
-             id="tspan3075">Confirms QSO with</tspan><tspan
+             id="tspan3075"
+             x="249.53687"
+             y="904.55011">Confirms QSO with</tspan><tspan
              sodipodi:role="line"
-             id="tspan3077">Date/Time</tspan><tspan
+             id="tspan3077"
+             x="249.53687"
+             y="920.15009">Date/Time</tspan><tspan
              sodipodi:role="line"
-             id="tspan3079">Freq/2xMode/Power</tspan><tspan
+             id="tspan3079"
+             x="249.53687"
+             y="935.75012">Freq/2xMode/Power</tspan><tspan
              sodipodi:role="line"
-             id="tspan3081">RST</tspan></text>
+             id="tspan3081"
+             x="249.53687"
+             y="951.3501">RST</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:130%;writing-mode:lr;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            x="249.53687"
            y="904.55011"
            id="text3186"
            sodipodi:linespacing="130%"><tspan
              sodipodi:role="line"
-             id="tspan3067">Confirms QSO with</tspan><tspan
+             id="tspan3067"
+             x="249.53687"
+             y="904.55011">Confirms QSO with</tspan><tspan
              sodipodi:role="line"
-             id="tspan3069">Date/Time</tspan><tspan
+             id="tspan3069"
+             x="249.53687"
+             y="920.15009">Date/Time</tspan><tspan
              sodipodi:role="line"
-             id="tspan3071">Freq/2xMode/Power</tspan><tspan
+             id="tspan3071"
+             x="249.53687"
+             y="935.75012">Freq/2xMode/Power</tspan><tspan
              sodipodi:role="line"
-             id="tspan3073">RST</tspan></text>
+             id="tspan3073"
+             x="249.53687"
+             y="951.3501">RST</tspan></text>
       </g>
       <rect
          rx="11.340001"
          ry="11.34"
-         y="876.55383"
-         x="257.78607"
+         y="785.40771"
+         x="256.63992"
          height="90.300003"
          width="236.56775"
          id="rect3254"
@@ -276,56 +286,56 @@
          id="rect3712"
          width="236.56775"
          height="90.300003"
-         x="257.78607"
-         y="768.19379"
+         x="256.63992"
+         y="677.04767"
          ry="11.34"
          rx="11.340001" />
       <g
+         transform="translate(-1.1461408,-91.146128)"
          id="g3103">
         <text
            sodipodi:linespacing="100%"
            id="text4040"
            y="871.20453"
            x="255.07687"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            xml:space="preserve"><tspan
              sodipodi:role="line"
-             id="tspan3101">@draak.ca</tspan></text>
+             id="tspan3101"
+             x="255.07687"
+             y="871.20453">@draak.ca</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            x="255.07687"
            y="871.20453"
            id="text3272"
            sodipodi:linespacing="100%"><tspan
              sodipodi:role="line"
-             id="tspan3099">@draak.ca</tspan></text>
+             id="tspan3099"
+             x="255.07687"
+             y="871.20453">@draak.ca</tspan></text>
       </g>
       <g
-         transform="translate(-24.218775,2.3410311)"
-         id="g3814">
+         id="g3900">
         <text
            sodipodi:linespacing="100%"
            id="text4048"
-           y="831.61011"
-           x="108.79687"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           y="742.80499"
+           x="83.431953"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
            xml:space="preserve"><tspan
-             y="831.61011"
-             x="108.79687"
-             id="tspan4050"
-             sodipodi:role="line">Tyler,</tspan></text>
+             sodipodi:role="line"
+             id="tspan3898">Tyler</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
-           x="108.79687"
-           y="831.61011"
+           style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique Semi-Condensed"
+           x="83.431953"
+           y="742.80499"
            id="text3722"
            sodipodi:linespacing="100%"><tspan
              sodipodi:role="line"
-             id="tspan3734"
-             x="108.79687"
-             y="831.61011">Tyler,</tspan></text>
+             id="tspan3896">Tyler</tspan></text>
       </g>
     </g>
   </g>
